@@ -2,7 +2,8 @@
 ### Kindly Star this Repository ⚡
 
 ## Mail to : suriyaa2002@gmail.com for access to Full Project Report and Full Project Code.
-### This does not have all the required code files
+### This does not have all the required code files. Mail me to get all the files
+
 Heart Disease Detection is a comprehensive application designed to detect the presence of heart disease based on several risk factors. The risk factors included <br>
 **Attribute Information:**
 1. age
